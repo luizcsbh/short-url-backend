@@ -1,10 +1,10 @@
-![Build](https://img.shields.io/github/actions/workflow/status/luizcsbh/short-url-backend/laravel.yml)
+![Build](https://img.shields.io/github/actions/workflow/status/luizcsbh/short-url-backend/docker-image.yml)
 ![Code Size](https://img.shields.io/github/languages/code-size/luizcsbh/short-url-backend)
 [![Lincen&ccedil;a](https://img.shields.io/github/license/luizcsbh/short-url-backend)](https://github.com/luizcsbh/short-url-backend/blob/main/LICENSE)
 
 ## Sobre ShortUrl Backend
 
-O *ShotURL* &eacute; uma aplica&ccedil;&atilde;o web simples aqui est· o repositÛrio backend desenvolvido em Node.js e Mongodb como banco de dados onde h&aacute; um formul&aacute;rio com entrada de dados como: url e È registrado no banco a url longa na entrada de dados e a url encurtada. Onde &eacute; gerado uma nova url encurtada.
+O *ShotURL* &eacute; uma aplica&ccedil;&atilde;o web simples aqui est√° o reposit√≥rio backend desenvolvido em Node.js e Mongodb como banco de dados onde h&aacute; um formul&aacute;rio com entrada de dados como: url e √© registrado no banco a url longa na entrada de dados e a url encurtada. Onde &eacute; gerado uma nova url encurtada.
 
 
 ## Patrocinador
